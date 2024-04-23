@@ -1,0 +1,36 @@
+.curriculo {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    background-color: #ff0000;
+    box-shadow: 0px 5px 15px 10px #ffffffd7;
+    padding: 20px;
+    height: fit-content;
+    margin-bottom: 50px;
+    margin-top: 30px;
+
+}
+
+.perfil {
+    display: flex;
+    flex-direction: row;
+    margin: 50px 30px;
+}
+
+.info_curriculo {
+    margin: 20px 30px;
+}
+
+#nome_curriculo {
+    font-weight: 800;
+    font-size: larger;
+}
+
+.experiencia_prof {
+    margin: 20px 0;
+}
+
+.curriculo p {
+    font-size: 15px;
+}
